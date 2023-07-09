@@ -7,5 +7,5 @@ setup(name='ePIC_Clustering',
       description='Python Distribution Utilities',
       author='Patrick McCormack',
       url='https://github.com/wpmccormack/ePIC_Clustering_2023',
-      packages=['distutils', 'distutils.command'],
+#      packages=['distutils', 'distutils.command'],
      )
